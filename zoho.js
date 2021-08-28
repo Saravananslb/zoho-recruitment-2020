@@ -14,4 +14,4 @@ const oddLetter = letter => {
     return arr.join('\n');
 }
 
-console.log(oddLetter('W A T E R'));
+console.log(oddLetter('W A T E R')); // Calling function
